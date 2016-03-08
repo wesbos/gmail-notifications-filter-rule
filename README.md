@@ -24,6 +24,7 @@ Please send Pull Requests with additions.
 * noreply@github.com
 * do-not-reply@trello.com
 * member@paypal.ca
+* service@intl.paypal.com
 * *@asana.com
 * noreply@md.getsentry.com
 * calendar-notification@google.com
