@@ -18,16 +18,16 @@ then
 
 Please send Pull Requests with additions. 
 
-notifications@basecamp.com
-no-reply@slack.com
-notifications@github.com
-noreply@github.com
-do-not-reply@trello.com
-member@paypal.ca
-*@asana.com
-noreply@md.getsentry.com
-calendar-notification@google.com
-emailnotification@interealty.net
-noreply@youtube.com
+* notifications@basecamp.com
+* no-reply@slack.com
+* notifications@github.com
+* noreply@github.com
+* do-not-reply@trello.com
+* member@paypal.ca
+* *@asana.com
+* noreply@md.getsentry.com
+* calendar-notification@google.com
+* emailnotification@interealty.net
+* noreply@youtube.com
 
 
