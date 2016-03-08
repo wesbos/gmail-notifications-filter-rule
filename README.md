@@ -12,7 +12,7 @@ Example: `notifications@basecamp.com OR no-reply@slack.com OR notifications@gith
 
 then
 
-![]()
+![](http://i.imgur.com/e199yIx.png)
 
 ## The Emails
 
