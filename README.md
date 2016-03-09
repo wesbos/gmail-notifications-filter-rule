@@ -30,5 +30,11 @@ Please send Pull Requests with additions.
 * calendar-notification@google.com
 * emailnotification@interealty.net
 * noreply@youtube.com
+* noreply@medium.com
+* notification+og1ezrgf@facebookmail.com
+* noreply@insideicloud.icloud.com
+* notifications@soundcloudmail.com
+* noreply@mandrill.com
+* no-reply@dropboxmail.com
 
 
